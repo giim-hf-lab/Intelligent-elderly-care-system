@@ -1,7 +1,7 @@
 # Intelligent-elderly-care-system
 **Introduction**
 
-This is a repository platform for elderly abnormal behavior care, which can detect the abnormal behaviors including cough, headache, chestpain, backpain,fall,sit down and stand up. Combing with sit down and stand up can determine the sedentary time of elder. It should be noted that the repository is a showcase for demonstrations and research. You can run this real-time platform as the following preparation:
+This is a repository platform for elderly abnormal behavior care, which can detect the abnormal behaviors including cough, headache, chestpain, backpain,fall,sit down and stand up. Combining with sit down and stand up can determine the sedentary time of elder. In addition, this platform provides the function of recording abnormal information, such as the moment when the behavior occurs, the duration, etc. It should be noted that the repository is a showcase for demonstrations and research. You can run this real-time platform acccording to the following preparation:
 
 **Configure**
 
