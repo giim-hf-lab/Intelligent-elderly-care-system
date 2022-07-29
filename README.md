@@ -12,7 +12,7 @@ There are other open source library shoud be installed, you can install these as
 
 `<pip install -r requirement.txt>`
 
-Then, downloading the weight file the following link from google cloud, and put it into folder"works_dir:
+Then, downloading the weight file the following link from google cloud, and put it into folder"/xx/works_dir/":
 `<https://drive.google.com/file/d/1edWlk2reHC1gqkuNzVfbMR4pkDX1G7MS/view?usp=sharing>`
 
 Last, run the py file:
