@@ -1,0 +1,7 @@
+cough
+falldown
+headache
+chestpain
+backpain
+standup
+sitdown
