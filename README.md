@@ -13,6 +13,8 @@ In sofware: Anaconda3, Python3.7
 
 There are other open source library shoud be installed, you can install these as the command in your computer terminal:
 
+``conda create -n test python=3.7``
+``conda activate test``
 ``pip install -r requirement.txt``
 
 Then, download the weights file of the model from google cloud according to the link below, and put it into folder"/xx/works_dir/":
