@@ -11,14 +11,14 @@ In sofware: Anaconda3, Python3.7
 
 **Run**
 
-There are other open source library shoud be installed, you can install these as the command in your compputer terminal:
+There are other open source library shoud be installed, you can install these as the command in your computer terminal:
 
 ``pip install -r requirement.txt``
 
 Then, download the weights file of the model from google cloud according to the link below, and put it into folder"/xx/works_dir/":
 ``https://drive.google.com/file/d/1edWlk2reHC1gqkuNzVfbMR4pkDX1G7MS/view?usp=sharing``
 
-Last, run the py file:
+Last, the platform can be shown by running the py file:
 
 ``python demo.py``
 
